@@ -1,6 +1,12 @@
-""" a"""
+"""
+Linter
+"""
+
+
 def study_schedule(permanence_period, target_time):
-""" a"""
+    """
+    Linter
+    """
     counter = 0
     try:
         for period in permanence_period:
